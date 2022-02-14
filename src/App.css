@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.repo-list-item {
+  list-style: none;
+}
